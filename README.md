@@ -1,6 +1,6 @@
 # ANN-from-scratch-using-NumPy
-An ANN Model for image detection over the MNIST dataset from scratch using NumPy library.<br>
-Details of model: <br>
+An ANN Model for image classification task over the MNIST dataset from scratch using NumPy library.<br>
+## Details of model: <br>
 	No. of hidden layers: 2 <br>
 	Learning rate: 0.5<br>
 	Optimizer implemented: adam<br>
